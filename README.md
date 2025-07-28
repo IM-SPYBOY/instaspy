@@ -22,3 +22,27 @@ To get started with Instaspy, follow these steps:
    ```bash
    git clone https://github.com/IM-SPYBOY/instaspy.git
    cd instaspy
+2. Install dependencies:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. Run the tool:
+   ```sh
+   python3 instaspy.py
+   ```
+
+
+## Configuration
+- The session is saved in `session.json`. Make sure to keep this file secure.
+- Modify API request headers if necessary for stability and efficiency.
+
+## Disclaimer
+This tool is intended for educational and research purposes only. Unauthorized use of Instagram data may violate Instagram's policies. Use responsibly.
+
+## Author
+- **SPYBOY**
+- Instagram [Instagram.com/mr_spyboy](https://instagram.com/mr_spyboy)
+- Telegram: [t.me/mr_spyboy](https://t.me/mr_spyboy)
+- Tg Channel: [t.me/SPYxTube](https://t.me/spyxtube)
+- YouTube: [Spyboy](https://www.youtube.com/spyboy)
+- YouTube2.0: [Spyboy](https://www.youtube.com/@spyboy2.0)
