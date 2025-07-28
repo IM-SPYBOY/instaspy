@@ -45,8 +45,8 @@ This tool is intended for educational and research purposes only. Unauthorized u
 
 ## Author
 - **SPYBOY**
-- Instagram   [mr_spyboy](https://instagram.com/mr_spyboy)
-- Telegram:   [mr_spyboy](https://t.me/mr_spyboy)
-- Tg Channel: [SPYxTube](https://t.me/spyxtube)
-- YouTube:    [spyboy](https://www.youtube.com/spyboy)
+- Instagram --[mr_spyboy](https://instagram.com/mr_spyboy)
+- Telegram: --[mr_spyboy](https://t.me/mr_spyboy)
+- Tg Channel:-[SPYxTube](https://t.me/spyxtube)
+- YouTube: ---[spyboy](https://www.youtube.com/spyboy)
 - YouTube2.0: [spyboy](https://www.youtube.com/@spyboy2.0)
