@@ -30,6 +30,9 @@ To get started with Instaspy, follow these steps:
    ```sh
    python3 instaspy.py
    ```
+## Alternatively, you can install Instaspy directly using pip:
+   ```sh
+   pip install instaspy
 
 
 ## Configuration
