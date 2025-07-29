@@ -32,7 +32,7 @@ To get started with Instaspy, follow these steps:
    ```
 ## Alternatively, you can install Instaspy directly using pip:
    ```sh
-   pip install instaspy
+   pip install instaspy-pip
    ```
 
 
